@@ -1,6 +1,6 @@
 Hello Sir/Madam NAMASTE 🙏
 
-"Detail Oriented Data Analyst, Proficient in transforming raw data into actionable insights. 
+Detail Oriented Data Analyst, Proficient in transforming raw data into actionable insights.
 
 I have used SQL for efficient data querying, Excel for advanced data manipulation, and Power BI for creating dynamic, interactive visualizations in my Projects.
 
