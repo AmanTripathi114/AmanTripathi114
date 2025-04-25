@@ -1,5 +1,4 @@
-Hello 👋
-
+Hello Sir/Madam NAMASTE 🙏
 
 "Detail Oriented Data Analyst, Proficient in transforming raw data into actionable insights. 
 
